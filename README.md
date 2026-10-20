@@ -16,7 +16,7 @@
 
 ## 🌻 Sobre mim
 
-Desenvolvedora com mais de 2s ano de experiência profissional em JavaScript, construindo base sólida em back-end: APIs REST, tipagem com TypeScript e Java, tornando aos poucos java como minha linguagem main.
+Desenvolvedora com mais de 2 anos de experiência profissional em JavaScript, construindo base sólida em back-end: APIs REST, tipagem com TypeScript e Java, tornando aos poucos java como minha linguagem main.
 
 ## 🌻 Stack
 
